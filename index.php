@@ -8,10 +8,10 @@
 </head>
 <body>
     <div class="container">
-   <h1>Administrción de servidores</h1> 
-<h2>Que es un sevidor</h2>
-<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Reprehenderit voluptatum doloremque quis explicabo necessitatibus quisquam consectetur, ipsam quam neque natus id repudiandae dignissimos molestiae, earum itaque nihil laboriosam voluptatibus non!Un servidor es una potente computadora en una red diseñada para proveer recursos, servicios y datos a otros dispositivos o clientes dentro de esa red</p>
-Un servidor es una potente computadora en una red diseñada para proveer recursos, servicios y datos a otros dispositivos o clientes dentro de esa red
-</div>
+        <h1>Administrción de servidores</h1> 
+        <h2>Que es un sevidor</h2>
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Reprehenderit voluptatum doloremque quis explicabo necessitatibus quisquam consectetur, ipsam quam neque natus id repudiandae dignissimos molestiae, earum itaque nihil laboriosam voluptatibus non!Un servidor es una potente computadora en una red diseñada para proveer recursos, servicios y datos a otros dispositivos o clientes dentro de esa red</p>
+        Un servidor es una potente computadora en una red diseñada para proveer recursos, servicios y datos a otros dispositivos o clientes dentro de esa red
+    </div>
 </body>
 </html>
