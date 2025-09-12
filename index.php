@@ -15,34 +15,34 @@
                         <h3 class="mb-0">Registro de Usuarios</h3>
                     </div>
                     <div class="card-body">
-                        <form action=""> 
+                        <form action="procesar.php" method="POST"> 
                             <div class="mb-3">
                                 <label for="nombre" class="form-label">Nombre</label>
-                                <input type="text" id="nombre" class="form-control" placeholder="Ingrese su nombre" required>
+                                <input type="text" id="nombre" name="nombre" class="form-control" placeholder="Ingrese su nombre" required>
                             </div>
 
                             <div class="mb-3">
                                 <label for="apellido" class="form-label">Apellido</label>
-                                <input type="text" id="apellido" class="form-control" placeholder="Ingrese su apellido" required>
+                                <input type="text" id="apellido" name="apellido" class="form-control" placeholder="Ingrese su apellido" required>
                             </div>
 
                             <div class="mb-3">
                                 <label for="telefono" class="form-label">Teléfono</label>
-                                <input type="tel" id="telefono" class="form-control" placeholder="Ej: 0991234567" required>
+                                <input type="tel" id="telefono" name="telefono" class="form-control" placeholder="Ej: 0991234567" required>
                             </div>
 
                             <div class="mb-3">
                                 <label for="direccion" class="form-label">Dirección</label>
-                                <input type="text" id="direccion" class="form-control" placeholder="Ingrese su dirección" required>
+                                <input type="text" id="direccion" name="direccion" class="form-control" placeholder="Ingrese su dirección" required>
                             </div>
 
                             <div class="mb-3">
                                 <label for="correo" class="form-label">Correo electrónico</label>
-                                <input type="email" id="correo" class="form-control" placeholder="ejemplo@correo.com" required>
+                                <input type="email" id="correo" name="correo" class="form-control" placeholder="ejemplo@correo.com" required>
                             </div>
 
                             <div class="mt-3">
-                                <input type="submit" class="btn btn-primay mt-3" value="Enviar">
+                                <input type="submit" class="btn btn-primary mt-3" value="Enviar">
                             </div>
                         </form>
                     </div>
@@ -53,6 +53,5 @@
             </div>
         </div>
     </div>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </body>
 </html>
