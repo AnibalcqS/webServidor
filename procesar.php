@@ -14,17 +14,21 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
 
     $apellido = $_POST["apellido"];
 
+    $telefono = $_POST["telefono"];
+
+    $direccion = $_POST["direccion"];
+
     $email = $_POST["email"];
 
-    $Mensaje = $_POST["Mensaje"];
+    $mensaje = $_POST["mensaje"];
 
-    $sql = "INSERT INTO user (name, apellido, telefono, direccion, email, mensaje) VALUES (?, ?, ?, ?, ?)";
+    $sql = "INSERT INTO user (name, apellido, telefono, direccion, email, mensaje) VALUES (?, ?, ?, ?, ?,?)";
 
     $stmt = $conn->prepare($sql);
 
    
 
-    $stmt->bind_param("sssss", $nombre, $apellido,$telefono, $direccion, $email, $mensaje);
+    $stmt->bind_param("ssssss", $nombre, $apellido,$telefono, $direccion, $email, $mensaje);
 
     $stmt->execute();
 
