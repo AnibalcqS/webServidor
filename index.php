@@ -37,10 +37,17 @@
                             </div>
 
                             <div class="mb-3">
-                                <label for="correo" class="form-label">Correo electrónico</label>
-                                <input type="email" id="correo" name="correo" class="form-control" placeholder="ejemplo@correo.com" required>
+                                <label for="email" class="form-label">Email</label>
+                                <input type="email" id="email" name="email" class="form-control" placeholder="ejemplo@correo.com" required>
                             </div>
 
+                            <div class="mb-3">
+                                <label for="mensaje" class="form-label">Mensaje</label>
+                                <textarea class="form-control" name="Mensaje" rows="3" id="">|</textarea>
+                                </div>
+
+
+                            
                             <div class="mt-3">
                                 <input type="submit" class="btn btn-primary mt-3" value="Enviar">
                             </div>
