@@ -58,14 +58,20 @@
                             </div>
                         </form>
                     </div>
-                    <img src="logo.png" alt="Imagen de prueba" class="img-fluid mt-3" style="max-width: 200px;">
+                    
+                    
                     <div class="card-footer text-center text-muted">
                         © 2025 - Sistema de Registro
+                        <div class="text-center mt-4">
+                        <img src="img/logo.png" alt="Imagen de prueba" class="img-fluid mt-3" style="width: 800px; height: auto;">
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+</div>
 </body>
 </html>
