@@ -41,10 +41,15 @@
                                 <input type="email" id="email" name="email" class="form-control" placeholder="ejemplo@correo.com" required>
                             </div>
 
-                            <div class="mb-3">
+                           
+                                <div class="mb-3">
+    
                                 <label for="mensaje" class="form-label">Mensaje</label>
-                                <textarea class="form-control" name="mensaje" rows="3" id="">|</textarea>
-                                </div>
+    
+                                <textarea class="form-control" name="mensaje" rows="3" id="mensaje"></textarea>
+
+                            </div>
+                            
 
 
                             
@@ -53,6 +58,7 @@
                             </div>
                         </form>
                     </div>
+                    
                     <div class="card-footer text-center text-muted">
                         © 2025 - Sistema de Registro
                     </div>
