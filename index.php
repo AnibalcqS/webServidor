@@ -62,16 +62,15 @@
                     
                     <div class="card-footer text-center text-muted">
                         © 2025 - Sistema de Registro
-                        <div class="text-center mt-4">
-                        <img src="img/logo.png" alt="Imagen de prueba" class="img-fluid mt-3" style="width: 800px; height: auto;">
-                        </div>
                     </div>
                 </div>
             </div>
         </div>
+        <div class="text-center mt-4">
+        <img src="img/logo.png" alt="Imagen de prueba" class="img-fluid mt-3" style="width: 1500px; height: auto;">
+        </div>
     </div>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
 </div>
 </body>
 </html>
