@@ -1,4 +1,21 @@
 <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+   
+
+ <img src="Imagen1.jpg" alt="Imagen de prueba" class="img-fluid mt-3" style="width: 200px; height: auto;">
+<br>
+<h2>Estudiante: SEGUNDO ANIBAL COBACANGO QUILUMBAQUíN</h2>
+<h2>Carrera: TSDS</h2>
+<h2>Asignatura: Sistemas Operativos de Administración de Servidores</h2>
+<h2>Docente: Darwin Chamba</h2>
+<br><br><br><br><br><br><br><br>
+<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
@@ -107,7 +124,7 @@
                     
                     
                     <div class="card-footer text-center text-muted">
-                        © 2025 - Sistema de Registro
+                       
                     </div>
                 </div>
             </div>
@@ -115,7 +132,11 @@
         <div class="text-center mt-4">
         <img src="img/logo.png" alt="Imagen de prueba" class="img-fluid mt-3" style="width: 1500px; height: auto;">
         </div>
-        <h3 class="mb-0">link de video examen</h3>
+        
+        <br><br>
+        
+        
+        <h3 class="mb-0">LINK DEL VIDEO EXAMEN</h3>
          <iframe 
         src="https://drive.google.com/file/d/1nRjVKLVOYXcLT4d1jkJU9ngfjX8qNyjx/preview" 
         width="640" 
@@ -393,8 +414,8 @@ TAREA 1
             <li>Descarga <strong>Oracle VM VirtualBox</strong> desde la página oficial.</li>
             <li>Descarga la <strong>imagen ISO de Ubuntu</strong> desde <a href="https://ubuntu.com/download/desktop" target="_blank">ubuntu.com</a>.</li>
         </ul>
-        <img src="V1.png" alt="caption" style="width: 1500px; height: auto;">
-        <img src="V2.png" alt="caption">
+         <img src="V1.png" alt="Imagen de prueba" class="img-fluid mt-3" style="width: 600px; height: auto;">
+         <img src="V2.png" alt="Imagen de prueba" class="img-fluid mt-3" style="width: 600px; height: auto;">
 
         <h2>2️⃣ Crear una nueva máquina virtual</h2>
         <ul>
@@ -403,13 +424,16 @@ TAREA 1
             <li>RAM: mínimo 2048 MB (mejor 4096 MB si tu PC lo permite).</li>
             <li>Disco duro virtual: VDI, tamaño dinámico, 25 GB mínimo.</li>
         </ul>
-
+          <img src="V3.png" alt="Imagen de prueba" class="img-fluid mt-3" style="width: 600px; height: auto;">
+          <img src="V4.png" alt="Imagen de prueba" class="img-fluid mt-3" style="width: 600px; height: auto;">
+          <img src="V11.png" alt="Imagen de prueba" class="img-fluid mt-3" style="width: 600px; height: auto;">
         <h2>3️⃣ Montar la ISO de Ubuntu</h2>
         <ul>
             <li>Selecciona tu máquina → Configuración → Almacenamiento.</li>
             <li>Haz clic en el ícono de CD → Seleccionar archivo de disco.</li>
             <li>Elige la ISO de Ubuntu descargada.</li>
         </ul>
+          <img src="V5.png" alt="Imagen de prueba" class="img-fluid mt-3" style="width: 600px; height: auto;">
 
         <h2>4️⃣ Iniciar la instalación</h2>
         <ul>
@@ -420,6 +444,8 @@ TAREA 1
             <li>Elige “Borrar disco e instalar Ubuntu” (solo afecta el disco virtual).</li>
             <li>Crea tu usuario y contraseña.</li>
         </ul>
+          <img src="V6.png" alt="Imagen de prueba" class="img-fluid mt-3" style="width: 600px; height: auto;">
+            <img src="V7.png" alt="Imagen de prueba" class="img-fluid mt-3" style="width: 600px; height: auto;">
 
         <h2>5️⃣ Finalizar</h2>
         <ul>
@@ -427,11 +453,56 @@ TAREA 1
             <li>Reinicia la máquina virtual.</li>
             <li>Inicia sesión y ¡listo!, ya tienes Ubuntu funcionando en VirtualBox.</li>
         </ul>
+          <img src="V8.png" alt="Imagen de prueba" class="img-fluid mt-3" style="width: 600px; height: auto;">
+          <img src="V9.png" alt="Imagen de prueba" class="img-fluid mt-3" style="width: 600px; height: auto;">
+         <img src="V10.png" alt="Imagen de prueba" class="img-fluid mt-3" style="width: 600px; height: auto;">
     </div>
 
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Instalación de Windows en Oracle VM VirtualBox</title>
+</head>
+<body>
+  <h1>Pasos para Instalar Windows en Oracle VM VirtualBox</h1>
+  
+  <ol>
+    <li>Descargar e instalar <strong>Oracle VM VirtualBox</strong> desde la página oficial de Oracle.</li>
+<img src="W1.png" alt="Imagen de prueba" class="img-fluid mt-3" style="width: 600px; height: auto;">
 
+    <li>Conseguir la <strong>imagen ISO de Windows</strong> (puede ser Windows 10 o 11).</li>
+    <img src="W2.png" alt="Imagen de prueba" class="img-fluid mt-3" style="width: 600px; height: auto;">
+
+    <li>Abrir VirtualBox y hacer clic en <em>“Nueva”</em> para crear una máquina virtual.</li>
+    <img src="W3.png" alt="Imagen de prueba" class="img-fluid mt-3" style="width: 600px; height: auto;">
+    <li>Poner un nombre (ejemplo: Windows10), seleccionar el tipo <strong>Microsoft Windows</strong> y la versión (Windows 10/11 según corresponda).</li>
+    <img src="W4.png" alt="Imagen de prueba" class="img-fluid mt-3" style="width: 600px; height: auto;">
+    <li>Asignar la <strong>memoria RAM</strong> (mínimo 2 GB, recomendado 4 GB o más).</li>
+    <img src="W5.png" alt="Imagen de prueba" class="img-fluid mt-3" style="width: 600px; height: auto;">
+    <li>Crear un <strong>disco duro virtual</strong> (mínimo 30 GB, recomendado 50 GB).</li>
+    <img src="W6.png" alt="Imagen de prueba" class="img-fluid mt-3" style="width: 600px; height: auto;">
+    <li>Seleccionar el disco creado y entrar a <em>“Configuración &gt; Almacenamiento”</em>.</li>
+    
+    <li>En el apartado de <strong>Controlador IDE</strong>, añadir la imagen ISO de Windows.</li>
+    <img src="W7.png" alt="Imagen de prueba" class="img-fluid mt-3" style="width: 600px; height: auto;">
+    <li>Iniciar la máquina virtual: se abrirá el instalador de Windows.</li>
+    <img src="W8.png" alt="Imagen de prueba" class="img-fluid mt-3" style="width: 600px; height: auto;">
+    <img src="W9.png" alt="Imagen de prueba" class="img-fluid mt-3" style="width: 600px; height: auto;">
+    <img src="W10.png" alt="Imagen de prueba" class="img-fluid mt-3" style="width: 600px; height: auto;">
+    <li>Seguir los pasos del instalador: elegir idioma, aceptar licencia, seleccionar el disco y comenzar la instalación.</li>
+    
+    <li>Esperar a que termine la instalación y configurar usuario, contraseña y opciones iniciales.</li>
+    <img src="W11.png" alt="Imagen de prueba" class="img-fluid mt-3" style="width: 600px; height: auto;">
+    <img src="W12.png" alt="Imagen de prueba" class="img-fluid mt-3" style="width: 600px; height: auto;">
+
+  </ol>
+
+</body>
+</html>
+<br><br><br><br>
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -440,6 +511,6 @@ TAREA 1
 </head>
 <body>
     <h1>Comprobante de Pago</h1>
-    <img src="VOUCHER.jpg" alt="Voucher de pago" width="500">
+    <img src="VOUCHER.jpg" alt="Imagen de prueba" class="img-fluid mt-3" style="width: 600px; height: auto;">
 </body>
 </html>
