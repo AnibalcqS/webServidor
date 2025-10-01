@@ -14,7 +14,8 @@
 <h2>Carrera: TSDS</h2>
 <h2>Asignatura: Sistemas Operativos de Administración de Servidores</h2>
 <h2>Docente: Darwin Chamba</h2>
-<br><br><br><br><br><br><br><br>
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -133,241 +134,23 @@
         <img src="img/logo.png" alt="Imagen de prueba" class="img-fluid mt-3" style="width: 1500px; height: auto;">
         </div>
         
-        <br><br>
+        <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+</body>
+</html>        
         
-        
-        <h3 class="mb-0">LINK DEL VIDEO EXAMEN</h3>
-         <iframe 
-        src="https://drive.google.com/file/d/1nRjVKLVOYXcLT4d1jkJU9ngfjX8qNyjx/preview" 
-        width="640" 
-        height="360" 
-        frameborder="0" 
-        allow="autoplay; encrypted-media" 
-        allowfullscreen>
-         </iframe>
-    </div>
+  <!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Comprobante</title>
+</head>
+<body>
+  <h2>Comprobante de Pago de Supletorio</h2>
+  <img src="VOUCHER.jpg" alt="Comprobante de pago" width="500">
+</body>
+</html>  
+
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-</div>
-</body>
-</html>
-TAREA 1
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Servidores de Internet</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4faff;
-            color: #333;
-            margin: 0;
-            padding: 0;
-        }
-        header {
-            background-color: #005f99;
-            color: white;
-            padding: 20px;
-            text-align: center;
-        }
-        section {
-            padding: 20px;
-            border-bottom: 1px solid #ccc;
-        }
-        h2 {
-            color: #005f99;
-        }
-        img {
-            max-width: 200px;
-            display: block;
-            margin-top: 10px;
-        }
-    </style>
-</head>
-<body>
-    <header>
-        <h1>Tarea 1: Servidores de Internet</h1>
-    </header>
-
-    <section>
-        <h2>Servidor DNS</h2>
-        <p>El servidor DNS traduce los nombres de dominio (como google.com) en direcciones IP que las computadoras utilizan para comunicarse en la red.</p>
-        <img src="dns.jpeg" alt="Servidor DNS">
-    </section>
-
-    <section>
-        <h2>Servidor WEB</h2>
-        <p>El servidor web almacena y entrega páginas web a los usuarios a través de navegadores como Chrome o Firefox.</p>
-        <img src="web.jpeg" alt="Servidor WEB">
-    </section>
-
-    <section>
-        <h2>Servidor FTP</h2>
-        <p>El servidor FTP permite transferir archivos entre computadoras a través de Internet de manera rápida y sencilla.</p>
-        <img src="ftp.png" alt="Servidor FTP">
-    </section>
-
-    <section>
-        <h2>Servidor DHCP</h2>
-        <p>El servidor DHCP asigna automáticamente direcciones IP a los dispositivos dentro de una red, facilitando la conexión.</p>
-        <img src="dhcp.png" alt="Servidor DHCP">
-    </section>
-
-    <section>
-        <h2>Servidor de Correo electrónico</h2>
-        <p>El servidor de correo gestiona el envío y la recepción de mensajes de correo electrónico en Internet.</p>
-        <img src="correo.png" alt="Servidor de Correo">
-    </section>
-
-</body>
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <title>Ejemplo de Etiquetas HTML</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-    <h1>Tarea 2: Página de ejemplos con etiquetas HTML</h1>
-    <p>En esta página aprenderás para qué sirve cada etiqueta de HTML y verás un ejemplo de uso.</p>
-
-    <hr>
-
-    <!-- Ejemplos de etiquetas básicas -->
-    <section>
-        <h2>1. Encabezados &lt;h1&gt; a &lt;h6&gt;</h2>
-        <p>Sirven para definir títulos con distintos niveles de importancia.</p>
-        <h3>Ejemplo:</h3>
-        <h4>Este es un encabezado h4</h4>
-    </section>
-
-    <section>
-        <h2>2. Párrafo &lt;p&gt;</h2>
-        <p>Sirve para escribir bloques de texto.</p>
-        <h3>Ejemplo:</h3>
-        <p>Este es un párrafo de ejemplo en HTML.</p>
-    </section>
-
-    <section>
-        <h2>3. Enlaces &lt;a&gt;</h2>
-        <p>Sirven para dirigir a otra página o recurso.</p>
-        <h3>Ejemplo:</h3>
-        <a href="https://www.google.com" target="_blank">Ir a Google</a>
-    </section>
-
-    <section>
-        <h2>4. Imágenes &lt;img&gt;</h2>
-        <p>Muestra imágenes en la página.</p>
-        <h3>Ejemplo:</h3>
-        <img src="image web.jpeg" alt="ejemplo">
-    </section>
-
-    <section>
-        <h2>5. Listas &lt;ul&gt; y &lt;ol&gt;</h2>
-        <p>Se usan para agrupar elementos en lista.</p>
-        <h3>Ejemplo:</h3>
-        <ul>
-            <li>Elemento en lista no ordenada</li>
-            <li>Otro elemento</li>
-        </ul>
-        <ol>
-            <li>Primer paso</li>
-            <li>Segundo paso</li>
-        </ol>
-    </section>
-
-    <section>
-        <h2>6. Tablas &lt;table&gt;</h2>
-        <p>Se usan para mostrar información tabulada.</p>
-        <h3>Ejemplo:</h3>
-        <table border="1">
-            <tr>
-                <th>Nombre</th>
-                <th>Edad</th>
-            </tr>
-            <tr>
-                <td>Ana</td>
-                <td>20</td>
-            </tr>
-            <tr>
-                <td>Juan</td>
-                <td>22</td>
-            </tr>
-        </table>
-    </section>
-
-    <hr>
-
-    <!-- 10 etiquetas nuevas -->
-    <h2>Etiquetas nuevas</h2>
-
-    <section>
-        <h3>1. &lt;video&gt;</h3>
-        <p>Permite insertar videos en la página.</p>
-        <video controls width="300">
-            <source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4">
-        </video>
-    </section>
-
-    <section>
-        <h3>2. &lt;audio&gt;</h3>
-        <p>Permite reproducir audio.</p>
-        <audio controls>
-            <source src="https://www.w3schools.com/html/horse.mp3" type="audio/mpeg">
-        </audio>
-    </section>
-
-    <section>
-        <h3>3. &lt;canvas&gt;</h3>
-        <p>Se usa para dibujar gráficos dinámicos con JavaScript.</p>
-        <canvas id="miCanvas" width="200" height="100"></canvas>
-        <script>
-            let c = document.getElementById("miCanvas");
-            let ctx = c.getContext("2d");
-            ctx.fillStyle = "blue";
-            ctx.fillRect(20, 20, 150, 60);
-        </script>
-    </section>
-
-    <section>
-        <h3>4. &lt;figure&gt; y &lt;figcaption&gt;</h3>
-        <p>Se usan para asociar imágenes con descripciones.</p>
-        <figure>
-            <img src="caption.jpeg" alt="caption">
-            <figcaption>Figura 1: Imagen con descripción.</figcaption>
-        </figure>
-    </section>
-
-    <section>
-        <h3>5. &lt;progress&gt;</h3>
-        <p>Muestra el progreso de una tarea.</p>
-        <progress value="60" max="100"></progress>
-    </section>
-
-    <section>
-        <h3>6. &lt;meter&gt;</h3>
-        <p>Muestra un valor dentro de un rango.</p>
-        <meter value="0.6" min="0" max="1">60%</meter>
-    </section>
-
-    <section>
-        <h3>7. &lt;details&gt; y &lt;summary&gt;</h3>
-        <p>Permite crear secciones desplegables.</p>
-        <details>
-            <summary>Haz clic aquí</summary>
-            <p>Este es el contenido oculto que aparece al desplegar.</p>
-        </details>
-    </section>
-
-    <section>
-        <h3>8. &lt;mark&gt;</h3>
-        <p>Resalta texto importante.</p>
-        <p>Ejemplo: HTML es <mark>muy importante</mark> en el desarrollo web.</p>
-    </section>
-
-   
-</body>
-</html>
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -406,6 +189,7 @@ TAREA 1
 </head>
 <body>
 
+    <h1>EXAMEN SUPLETORIO</h1>
     <h1>Instalación de Ubuntu en Oracle VM VirtualBox</h1>
 
     <div class="box">
@@ -479,38 +263,27 @@ TAREA 1
     <li>Abrir VirtualBox y hacer clic en <em>“Nueva”</em> para crear una máquina virtual.</li>
     <img src="W3.png" alt="Imagen de prueba" class="img-fluid mt-3" style="width: 600px; height: auto;">
     <li>Poner un nombre (ejemplo: Windows10), seleccionar el tipo <strong>Microsoft Windows</strong> y la versión (Windows 10/11 según corresponda).</li>
-    <img src="W4.png" alt="Imagen de prueba" class="img-fluid mt-3" style="width: 600px; height: auto;">
+    <img src="w4.png" alt="Imagen de prueba" class="img-fluid mt-3" style="width: 600px; height: auto;">
     <li>Asignar la <strong>memoria RAM</strong> (mínimo 2 GB, recomendado 4 GB o más).</li>
-    <img src="W5.png" alt="Imagen de prueba" class="img-fluid mt-3" style="width: 600px; height: auto;">
+    <img src="w5.png" alt="Imagen de prueba" class="img-fluid mt-3" style="width: 600px; height: auto;">
     <li>Crear un <strong>disco duro virtual</strong> (mínimo 30 GB, recomendado 50 GB).</li>
-    <img src="W6.png" alt="Imagen de prueba" class="img-fluid mt-3" style="width: 600px; height: auto;">
+    <img src="w6.png" alt="Imagen de prueba" class="img-fluid mt-3" style="width: 600px; height: auto;">
     <li>Seleccionar el disco creado y entrar a <em>“Configuración &gt; Almacenamiento”</em>.</li>
     
     <li>En el apartado de <strong>Controlador IDE</strong>, añadir la imagen ISO de Windows.</li>
-    <img src="W7.png" alt="Imagen de prueba" class="img-fluid mt-3" style="width: 600px; height: auto;">
+    <img src="w7.png" alt="Imagen de prueba" class="img-fluid mt-3" style="width: 600px; height: auto;">
     <li>Iniciar la máquina virtual: se abrirá el instalador de Windows.</li>
-    <img src="W8.png" alt="Imagen de prueba" class="img-fluid mt-3" style="width: 600px; height: auto;">
-    <img src="W9.png" alt="Imagen de prueba" class="img-fluid mt-3" style="width: 600px; height: auto;">
-    <img src="W10.png" alt="Imagen de prueba" class="img-fluid mt-3" style="width: 600px; height: auto;">
+    <img src="w8.png" alt="Imagen de prueba" class="img-fluid mt-3" style="width: 600px; height: auto;">
+    <img src="w9.png" alt="Imagen de prueba" class="img-fluid mt-3" style="width: 600px; height: auto;">
+    <img src="w10.png" alt="Imagen de prueba" class="img-fluid mt-3" style="width: 600px; height: auto;">
     <li>Seguir los pasos del instalador: elegir idioma, aceptar licencia, seleccionar el disco y comenzar la instalación.</li>
     
     <li>Esperar a que termine la instalación y configurar usuario, contraseña y opciones iniciales.</li>
-    <img src="W11.png" alt="Imagen de prueba" class="img-fluid mt-3" style="width: 600px; height: auto;">
-    <img src="W12.png" alt="Imagen de prueba" class="img-fluid mt-3" style="width: 600px; height: auto;">
+    <img src="w11.png" alt="Imagen de prueba" class="img-fluid mt-3" style="width: 600px; height: auto;">
+    <img src="w12.png" alt="Imagen de prueba" class="img-fluid mt-3" style="width: 600px; height: auto;">
 
   </ol>
 
 </body>
 </html>
 <br><br><br><br>
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <title>Voucher de Pago</title>
-</head>
-<body>
-    <h1>Comprobante de Pago</h1>
-    <img src="VOUCHER.jpg" alt="Imagen de prueba" class="img-fluid mt-3" style="width: 600px; height: auto;">
-</body>
-</html>
